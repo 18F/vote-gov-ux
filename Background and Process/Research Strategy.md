@@ -1,4 +1,4 @@
-#Draft Web Design Standards Research Strategy
+#Vote.gov Research Strategy
 
 ##Overview
 TBD
