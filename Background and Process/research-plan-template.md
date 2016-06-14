@@ -26,7 +26,7 @@ The areas for product research generally fall into the following areas:
 
 ## Target audiences
 
-We need to recruit a representative sample of people who have or are likely to visit vote.usa.gov. These participants should be a <QUICK OVERVIEW OF PARTICIPANTS.
+We need to recruit a representative sample of people who have visited or are likely to visit vote.usa.gov. These participants should be a <QUICK OVERVIEW OF PARTICIPANTS.
 
 From that broad group, <HIGH LEVEL RECRUITMENT DEMOGRAPHICS AND BEHAVIORS>:
 
@@ -65,7 +65,7 @@ The methods to be used during this research phase will be <RESEARCH METHOD> with
 
 For each location, the team will need to have the following items on hand:
 
-* GSA issued Macbooks
+* GSA-issued Macbooks
     * PC mouse
     * table, chairs
 * Wi-Fi hotspot
@@ -74,7 +74,7 @@ For each location, the team will need to have the following items on hand:
 
 ## Day of testing protocol
 
-1.  (If in person) Research team should wear their government issued badge and have it visible to the participant at all times.
+1.  (If in person) Research team should wear their government-issued badge and have it visible to the participant at all times.
 2.  Research team should be dressed in business casual attire.
 3.  Participants will need to sign a consent form (see attached). Scan and forward the signed ones to <FINAL STORAGE LOCATOIN>.
 4.  Research team should ensure that no PII data is captured. Participants should input fake data if needed.
@@ -82,7 +82,7 @@ For each location, the team will need to have the following items on hand:
 
 ## What will we do when?
 
-Below is the proposed schedule for sessions. Each session will last between 30 - 45 minutes.
+Below is the proposed schedule for sessions. Each session will last between 30 and 45 minutes.
 
 **Location (Arrive at Field Office by X:XX)**
 
@@ -139,9 +139,9 @@ NOTE: SPECIAL LOCATION NOTE
 
 My name is [your name] and I'm working with <CLIENT> on making improvements to the naturalization application.
 
-We were hoping to grab 30 - 45 minutes of your time to get your feedback on <FOCUS OF RESEARCH>. If you have the time, we’d like to ask you to complete an activity that will show us where these improvements are working and where they are failing.  
+We were hoping to grab between 30 and 45 minutes of your time to get your feedback on <FOCUS OF RESEARCH>. If you have the time, we’d like to ask you to complete an activity that will show us where these improvements are working and where they are failing.  
 
-Your participation in this activity is completely voluntary. And we will not ask for more than 45 minutes of your time. If at anytime you'd like to end our session, that is your right and we will gladly wrap things up.
+Your participation in this activity is completely voluntary, and we will not ask for more than 45 minutes of your time. If at any time you'd like to end our session, that is your right and we will gladly wrap things up.
 
 Are you interested in participating?
 
@@ -150,7 +150,7 @@ Are you interested in participating?
 * If **Yes** - Continue
 * If **No** - Thank them for their time and excuse yourself.
 
-Thank you again for agreeing to participate. I will be moderating this session and you will notice others joining the session as well. They are observing the session and taking notes to ensure we don’t miss anything.
+Thank you again for agreeing to participate. I will be moderating this session and you will notice others joining the session, as well. They are observing the session and taking notes to ensure we don’t miss anything.
 
 With your permission, we will be audio taping these sessions. The information that is captured will only be used for evaluation, research and training purposes and will not be shared outside of the project team. Is it OK for me to begin recording now?
 
